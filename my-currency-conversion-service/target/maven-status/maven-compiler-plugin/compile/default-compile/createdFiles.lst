@@ -1,0 +1,5 @@
+com\example\demo\resource\CurrencyConversionBean.class
+com\example\demo\resource\CurrencyConversionController.class
+com\example\demo\resource\CurrencyExchangeServiceProxy.class
+com\example\demo\util\environment\EnvironmentConfigurationLogger.class
+com\example\demo\MyCurrencyConversionServiceApplication.class
