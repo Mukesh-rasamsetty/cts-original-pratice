@@ -1,0 +1,5 @@
+com\example\demo\resource\ExchangeValue.class
+com\example\demo\MyCurrencyExchangeServiceApplication.class
+com\example\demo\resource\CurrencyExchangeController.class
+com\example\demo\resource\ExchangeValueRepository.class
+com\example\demo\util\environment\EnvironmentConfigurationLogger.class
